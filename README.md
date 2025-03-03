@@ -16,7 +16,7 @@ I am a student at Nösnäs gymnasium studying IT. I am 18 years old and am a sec
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
-## Hi there 👋
+
 
 <!--
 **OlleSo/OlleSo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
